@@ -10,11 +10,11 @@ const personA = {
   
   switch (personA.age > personB.age) {
     case true:
-      console.log('Benar')
+      console.log('Benar, Alpha lebih tua dari Betty')
       break
   
     case false:
-      console.log('Salah')
+      console.log('Salah, Alpha lebih muda dari Betty')
       break
   
     default:
