@@ -61,19 +61,20 @@
 
 //Intro javascript loops dibawah
 
-let num = 8;
+//let num = 8;
 
-for (i = num - 1; i >= 1; i-- ){
-  num *= i
-}
+//for (i = num - 1; i >= 1; i-- ){
+  //num *= i
+//}
 
-console.log(num)
+//console.log(num)
 
-let name = 'pirman'
-let reversedName = ''
+//let name = 'pirman'
+//let reversedName = ''
 
-for(let i = name.length - 1; i >= 0; i--) {
-  reversedName += name[i]
-}
+//for(let i = name.length - 1; i >= 0; i--) {
+  //reversedName += name[i]
+//}
 
-console.log(reversedName)
+//console.log(reversedName)
+
